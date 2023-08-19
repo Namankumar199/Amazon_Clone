@@ -1,2 +1,4 @@
 # Amazon_Clone
-Amazon Clone interface using html,css
+Amazon clone using Html and css
+
+show this project on: 
